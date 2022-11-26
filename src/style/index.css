@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: 10px;
+}
+.title {
+    text-align: center;
+}
+#textarea {
+    display: block;
+    margin: 0 auto;
+}
+.btns {
+    width: 200px;
+    margin: 10px auto;
+}
+#btnHK,
+#btnCN {
+    background-color: rgb(66, 226, 151);
+    border: none;
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 10px;
+}
+#btnHK:hover,
+#btnCN:hover {
+    background-color: rgb(73, 250, 167);
+}
