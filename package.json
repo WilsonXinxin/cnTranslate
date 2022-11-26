@@ -4,11 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://gitee.com/WilsonXinxin/cntranslate.git"
+    "build": "webpack",
+    "gh-deploy": "gh-deploy.sh dist"
   },
   "author": "wilson",
   "license": "MIT",
