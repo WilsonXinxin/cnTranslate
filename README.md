@@ -9,5 +9,5 @@ Traditional Chinese and Simplified Chinese
 ## push to github page
 
 ```node
-npm run publish
+yarn run publish
 ```
