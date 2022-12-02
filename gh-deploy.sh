@@ -12,7 +12,7 @@ fi
 set -e
 
 # 生成静态文件
-npm run build
+yarn build
 git add .
 git commit -m'publish gh-pages'
 
