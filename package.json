@@ -11,7 +11,9 @@
 	"author": "wilson",
 	"license": "MIT",
 	"devDependencies": {
+		"@antfu/eslint-config": "^0.34.0",
 		"css-loader": "^6.7.2",
+		"eslint": "^8.29.0",
 		"html-webpack-plugin": "^5.5.0",
 		"style-loader": "^3.3.1",
 		"webpack": "^5.75.0",
